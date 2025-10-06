@@ -1,9 +1,5 @@
 numpy
 pandas
-ast
-streamlit 
-pickle
-pandas 
+streamlit
 requests
-PIL 
-io 
+pillow
